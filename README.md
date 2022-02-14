@@ -4,6 +4,7 @@
 # 공부항목
 - SQL
 - Python
+  - Crawling
 - Git
 - 빅데이터 분석 기사
 - [패스트캠퍼스] 온라인 강의
