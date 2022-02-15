@@ -11,7 +11,7 @@
 
 ## musinsa_brand100.csv
 ### Column 설명
-- rnak: 순위
+- rk: 순위
 - name: 브랜드명
 - en_name: 브랜드명 영문
 - url: 해당 브랜드로 연결되는 url
