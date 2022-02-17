@@ -15,4 +15,6 @@
 - color: 색상
 - price: 발매 가격
 - re_price: 리셀 가격
+- wish: 위시 수
+- review: 후기 수
 - link: 상품 링크
