@@ -23,6 +23,6 @@
 - product: 상품명
 - price: 실제 가격
 - sale_price: 세일 가격
-- increase: 증가 및 하락 (증가: 0, 하락: 1)
+- increase: 증가 및 하락 (증가: 1, 하락: 0)
 - increase_cnt: 증가 및 하락 개수
 - no_deli: 재고 부족으로 인한 일정 날짜에 배송을 시작
