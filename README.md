@@ -9,4 +9,4 @@
   - Crawling
 - Git
   - 매일 1 commit 이상 하기
-- 빅데이터 분석 기사
+  - branch 활용하여 git flow 연습하기
